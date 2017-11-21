@@ -1,0 +1,17 @@
+D:\Imran\samples\AspnetCoreADO\AspnetCoreADO\bin\Debug\netcoreapp2.0\AspnetCoreADO.deps.json
+D:\Imran\samples\AspnetCoreADO\AspnetCoreADO\bin\Debug\netcoreapp2.0\AspnetCoreADO.runtimeconfig.json
+D:\Imran\samples\AspnetCoreADO\AspnetCoreADO\bin\Debug\netcoreapp2.0\AspnetCoreADO.runtimeconfig.dev.json
+D:\Imran\samples\AspnetCoreADO\AspnetCoreADO\bin\Debug\netcoreapp2.0\AspnetCoreADO.dll
+D:\Imran\samples\AspnetCoreADO\AspnetCoreADO\bin\Debug\netcoreapp2.0\AspnetCoreADO.pdb
+D:\Imran\samples\AspnetCoreADO\AspnetCoreADO\obj\Debug\netcoreapp2.0\AspnetCoreADO.csprojResolveAssemblyReference.cache
+D:\Imran\samples\AspnetCoreADO\AspnetCoreADO\obj\Debug\netcoreapp2.0\AspnetCoreADO.csproj.CoreCompileInputs.cache
+D:\Imran\samples\AspnetCoreADO\AspnetCoreADO\obj\Debug\netcoreapp2.0\AspnetCoreADO.AssemblyInfoInputs.cache
+D:\Imran\samples\AspnetCoreADO\AspnetCoreADO\obj\Debug\netcoreapp2.0\AspnetCoreADO.AssemblyInfo.cs
+D:\Imran\samples\AspnetCoreADO\AspnetCoreADO\obj\Debug\netcoreapp2.0\AspnetCoreADO.dll
+D:\Imran\samples\AspnetCoreADO\AspnetCoreADO\obj\Debug\netcoreapp2.0\AspnetCoreADO.pdb
+D:\Imran\samples\AspnetCoreADO\AspnetCoreADO\bin\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.dll
+D:\Imran\samples\AspnetCoreADO\AspnetCoreADO\bin\Debug\netcoreapp2.0\AspnetCoreADO.Models.dll
+D:\Imran\samples\AspnetCoreADO\AspnetCoreADO\bin\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.pdb
+D:\Imran\samples\AspnetCoreADO\AspnetCoreADO\bin\Debug\netcoreapp2.0\AspnetCoreADO.Models.pdb
+D:\Imran\samples\AspnetCoreADO\AspnetCoreADO\bin\Debug\netcoreapp2.0\AspnetCoreADO.Repository.dll
+D:\Imran\samples\AspnetCoreADO\AspnetCoreADO\bin\Debug\netcoreapp2.0\AspnetCoreADO.Repository.pdb

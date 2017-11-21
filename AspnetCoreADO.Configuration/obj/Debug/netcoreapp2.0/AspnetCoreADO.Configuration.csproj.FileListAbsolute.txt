@@ -1,0 +1,8 @@
+D:\Imran\samples\AspnetCoreADO\AspnetCoreADO.Configuration\bin\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.deps.json
+D:\Imran\samples\AspnetCoreADO\AspnetCoreADO.Configuration\bin\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.dll
+D:\Imran\samples\AspnetCoreADO\AspnetCoreADO.Configuration\bin\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.pdb
+D:\Imran\samples\AspnetCoreADO\AspnetCoreADO.Configuration\obj\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.csproj.CoreCompileInputs.cache
+D:\Imran\samples\AspnetCoreADO\AspnetCoreADO.Configuration\obj\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.AssemblyInfoInputs.cache
+D:\Imran\samples\AspnetCoreADO\AspnetCoreADO.Configuration\obj\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.AssemblyInfo.cs
+D:\Imran\samples\AspnetCoreADO\AspnetCoreADO.Configuration\obj\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.dll
+D:\Imran\samples\AspnetCoreADO\AspnetCoreADO.Configuration\obj\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.pdb
