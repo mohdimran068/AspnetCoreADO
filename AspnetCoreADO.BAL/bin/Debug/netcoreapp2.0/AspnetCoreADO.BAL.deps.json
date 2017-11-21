@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "AspnetCoreADO.BAL/1.0.0": {
+        "dependencies": {
+          "AspnetCoreADO.Models": "1.0.0",
+          "AspnetCoreADO.Repository": "1.0.0"
+        },
+        "runtime": {
+          "AspnetCoreADO.BAL.dll": {}
+        }
+      },
+      "AspnetCoreADO.Configuration/1.0.0": {
+        "runtime": {
+          "AspnetCoreADO.Configuration.dll": {}
+        }
+      },
+      "AspnetCoreADO.Models/1.0.0": {
+        "runtime": {
+          "AspnetCoreADO.Models.dll": {}
+        }
+      },
+      "AspnetCoreADO.Repository/1.0.0": {
+        "dependencies": {
+          "AspnetCoreADO.Configuration": "1.0.0",
+          "AspnetCoreADO.Models": "1.0.0"
+        },
+        "runtime": {
+          "AspnetCoreADO.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AspnetCoreADO.BAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AspnetCoreADO.Configuration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AspnetCoreADO.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AspnetCoreADO.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

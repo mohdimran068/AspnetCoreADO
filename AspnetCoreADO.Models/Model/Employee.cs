@@ -1,6 +1,6 @@
 ﻿namespace AspnetCoreADO.DataAccess.Model
 {
-    public class Employee
+    public class Person
     {
         public int EmployeeID { get; set; }
         public string EmployeeName { get; set; }

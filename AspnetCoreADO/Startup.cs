@@ -1,4 +1,5 @@
-﻿using AspnetCoreADO.Configuration;
+﻿using AspnetCoreADO.BAL;
+using AspnetCoreADO.Configuration;
 using AspnetCoreADO.DataAccess.Repository;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -35,10 +36,14 @@ namespace AspnetCoreADO
             services.Configure<ConnectionStrings>(Configuration.GetSection("ConnectionStrings"));
 
             services.AddSingleton<IDBOperation, DBOperations>();
+            services.AddSingleton<IEmployeeBS, EmployeeBS>();
+            services.AddSingleton<IStudentBS, StudentBS>();
 
             services.Configure<AppInfo>(Configuration.GetSection("AppInfo"));
 
             services.AddSingleton<IAppInfoRepo, AppInfoRepo>();
+
+
 
             //Add the CORS services 
             services.AddCors();

@@ -32,3 +32,22 @@ C:\Users\Bijith\source\repos\AspnetCoreADO\AspnetCoreADO\obj\Debug\netcoreapp2.0
 C:\Users\Bijith\source\repos\AspnetCoreADO\AspnetCoreADO\obj\Debug\netcoreapp2.0\AspnetCoreADO.API.AssemblyInfo.cs
 C:\Users\Bijith\source\repos\AspnetCoreADO\AspnetCoreADO\obj\Debug\netcoreapp2.0\AspnetCoreADO.API.dll
 C:\Users\Bijith\source\repos\AspnetCoreADO\AspnetCoreADO\obj\Debug\netcoreapp2.0\AspnetCoreADO.API.pdb
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO\bin\Debug\netcoreapp2.0\AspnetCoreADO.API.deps.json
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO\bin\Debug\netcoreapp2.0\AspnetCoreADO.API.runtimeconfig.json
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO\bin\Debug\netcoreapp2.0\AspnetCoreADO.API.runtimeconfig.dev.json
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO\bin\Debug\netcoreapp2.0\AspnetCoreADO.API.dll
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO\bin\Debug\netcoreapp2.0\AspnetCoreADO.API.pdb
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO\bin\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.dll
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO\bin\Debug\netcoreapp2.0\AspnetCoreADO.Models.dll
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO\bin\Debug\netcoreapp2.0\AspnetCoreADO.Repository.dll
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO\bin\Debug\netcoreapp2.0\AspnetCoreADO.Repository.pdb
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO\bin\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.pdb
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO\bin\Debug\netcoreapp2.0\AspnetCoreADO.Models.pdb
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO\obj\Debug\netcoreapp2.0\AspnetCoreADO.API.csprojResolveAssemblyReference.cache
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO\obj\Debug\netcoreapp2.0\AspnetCoreADO.API.csproj.CoreCompileInputs.cache
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO\obj\Debug\netcoreapp2.0\AspnetCoreADO.API.AssemblyInfoInputs.cache
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO\obj\Debug\netcoreapp2.0\AspnetCoreADO.API.AssemblyInfo.cs
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO\obj\Debug\netcoreapp2.0\AspnetCoreADO.API.dll
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO\obj\Debug\netcoreapp2.0\AspnetCoreADO.API.pdb
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO\bin\Debug\netcoreapp2.0\AspnetCoreADO.BAL.dll
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO\bin\Debug\netcoreapp2.0\AspnetCoreADO.BAL.pdb

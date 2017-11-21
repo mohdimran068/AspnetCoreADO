@@ -32,3 +32,20 @@ C:\Users\Bijith\source\repos\AspnetCoreADO\AspnetCoreADO.DataAccess\obj\Debug\ne
 C:\Users\Bijith\source\repos\AspnetCoreADO\AspnetCoreADO.DataAccess\obj\Debug\netcoreapp2.0\AspnetCoreADO.Repository.AssemblyInfo.cs
 C:\Users\Bijith\source\repos\AspnetCoreADO\AspnetCoreADO.DataAccess\obj\Debug\netcoreapp2.0\AspnetCoreADO.Repository.dll
 C:\Users\Bijith\source\repos\AspnetCoreADO\AspnetCoreADO.DataAccess\obj\Debug\netcoreapp2.0\AspnetCoreADO.Repository.pdb
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.DataAccess\bin\Debug\netcoreapp2.0\AspnetCoreADO.Repository.deps.json
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.DataAccess\bin\Debug\netcoreapp2.0\AspnetCoreADO.Repository.dll
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.DataAccess\bin\Debug\netcoreapp2.0\AspnetCoreADO.Repository.pdb
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.DataAccess\bin\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.dll
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.DataAccess\bin\Debug\netcoreapp2.0\AspnetCoreADO.Models.dll
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.DataAccess\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Options.dll
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.DataAccess\bin\Debug\netcoreapp2.0\System.Data.SqlClient.dll
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.DataAccess\bin\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.pdb
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.DataAccess\bin\Debug\netcoreapp2.0\AspnetCoreADO.Models.pdb
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.DataAccess\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Options.xml
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.DataAccess\bin\Debug\netcoreapp2.0\System.Data.SqlClient.xml
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.DataAccess\obj\Debug\netcoreapp2.0\AspnetCoreADO.Repository.csprojResolveAssemblyReference.cache
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.DataAccess\obj\Debug\netcoreapp2.0\AspnetCoreADO.Repository.csproj.CoreCompileInputs.cache
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.DataAccess\obj\Debug\netcoreapp2.0\AspnetCoreADO.Repository.AssemblyInfoInputs.cache
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.DataAccess\obj\Debug\netcoreapp2.0\AspnetCoreADO.Repository.AssemblyInfo.cs
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.DataAccess\obj\Debug\netcoreapp2.0\AspnetCoreADO.Repository.dll
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.DataAccess\obj\Debug\netcoreapp2.0\AspnetCoreADO.Repository.pdb

@@ -16,3 +16,12 @@ C:\Users\Bijith\source\repos\AspnetCoreADO\AspnetCoreADO.Configuration\obj\Debug
 C:\Users\Bijith\source\repos\AspnetCoreADO\AspnetCoreADO.Configuration\obj\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.AssemblyInfo.cs
 C:\Users\Bijith\source\repos\AspnetCoreADO\AspnetCoreADO.Configuration\obj\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.dll
 C:\Users\Bijith\source\repos\AspnetCoreADO\AspnetCoreADO.Configuration\obj\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.pdb
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.Configuration\bin\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.deps.json
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.Configuration\bin\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.dll
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.Configuration\bin\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.pdb
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.Configuration\obj\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.csprojResolveAssemblyReference.cache
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.Configuration\obj\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.csproj.CoreCompileInputs.cache
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.Configuration\obj\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.AssemblyInfoInputs.cache
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.Configuration\obj\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.AssemblyInfo.cs
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.Configuration\obj\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.dll
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.Configuration\obj\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.pdb

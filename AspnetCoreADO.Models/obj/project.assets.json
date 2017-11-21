@@ -664,7 +664,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Bijith\\.nuget\\packages\\": {},
+    "C:\\Users\\Imran\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -673,17 +673,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bijith\\source\\repos\\AspnetCoreADO\\AspnetCoreADO.Models\\AspnetCoreADO.Models.csproj",
+      "projectUniqueName": "F:\\Develop\\GIT Repo\\aspnetcoreado\\AspnetCoreADO.Models\\AspnetCoreADO.Models.csproj",
       "projectName": "AspnetCoreADO.Models",
-      "projectPath": "C:\\Users\\Bijith\\source\\repos\\AspnetCoreADO\\AspnetCoreADO.Models\\AspnetCoreADO.Models.csproj",
-      "packagesPath": "C:\\Users\\Bijith\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bijith\\source\\repos\\AspnetCoreADO\\AspnetCoreADO.Models\\obj\\",
+      "projectPath": "F:\\Develop\\GIT Repo\\aspnetcoreado\\AspnetCoreADO.Models\\AspnetCoreADO.Models.csproj",
+      "packagesPath": "C:\\Users\\Imran\\.nuget\\packages\\",
+      "outputPath": "F:\\Develop\\GIT Repo\\aspnetcoreado\\AspnetCoreADO.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Bijith\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Imran\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

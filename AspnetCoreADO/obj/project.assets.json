@@ -4747,6 +4747,20 @@
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
       },
+      "AspnetCoreADO.BAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "AspnetCoreADO.Models": "1.0.0",
+          "AspnetCoreADO.Repository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AspnetCoreADO.BAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AspnetCoreADO.BAL.dll": {}
+        }
+      },
       "AspnetCoreADO.Configuration/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
@@ -12559,6 +12573,11 @@
         "windowsazure.storage.nuspec"
       ]
     },
+    "AspnetCoreADO.BAL/1.0.0": {
+      "type": "project",
+      "path": "../AspnetCoreADO.BAL/AspnetCoreADO.BAL.csproj",
+      "msbuildProject": "../AspnetCoreADO.BAL/AspnetCoreADO.BAL.csproj"
+    },
     "AspnetCoreADO.Configuration/1.0.0": {
       "type": "project",
       "path": "../AspnetCoreADO.Configuration/AspnetCoreADO.Configuration.csproj",
@@ -12577,13 +12596,14 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "AspnetCoreADO.BAL >= 1.0.0",
       "AspnetCoreADO.Repository >= 1.0.0",
       "Microsoft.AspNetCore.All >= 2.0.0",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Bijith\\.nuget\\packages\\": {},
+    "C:\\Users\\Imran\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -12592,17 +12612,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bijith\\source\\repos\\AspnetCoreADO\\AspnetCoreADO\\AspnetCoreADO.API.csproj",
+      "projectUniqueName": "F:\\Develop\\GIT Repo\\aspnetcoreado\\AspnetCoreADO\\AspnetCoreADO.API.csproj",
       "projectName": "AspnetCoreADO.API",
-      "projectPath": "C:\\Users\\Bijith\\source\\repos\\AspnetCoreADO\\AspnetCoreADO\\AspnetCoreADO.API.csproj",
-      "packagesPath": "C:\\Users\\Bijith\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bijith\\source\\repos\\AspnetCoreADO\\AspnetCoreADO\\obj\\",
+      "projectPath": "F:\\Develop\\GIT Repo\\aspnetcoreado\\AspnetCoreADO\\AspnetCoreADO.API.csproj",
+      "packagesPath": "C:\\Users\\Imran\\.nuget\\packages\\",
+      "outputPath": "F:\\Develop\\GIT Repo\\aspnetcoreado\\AspnetCoreADO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Bijith\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Imran\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12615,8 +12635,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Bijith\\source\\repos\\AspnetCoreADO\\AspnetCoreADO.DataAccess\\AspnetCoreADO.Repository.csproj": {
-              "projectPath": "C:\\Users\\Bijith\\source\\repos\\AspnetCoreADO\\AspnetCoreADO.DataAccess\\AspnetCoreADO.Repository.csproj"
+            "F:\\Develop\\GIT Repo\\aspnetcoreado\\AspnetCoreADO.DataAccess\\AspnetCoreADO.Repository.csproj": {
+              "projectPath": "F:\\Develop\\GIT Repo\\aspnetcoreado\\AspnetCoreADO.DataAccess\\AspnetCoreADO.Repository.csproj"
+            },
+            "F:\\Develop\\GIT Repo\\aspnetcoreado\\AspnetCoreADO.BAL\\AspnetCoreADO.BAL.csproj": {
+              "projectPath": "F:\\Develop\\GIT Repo\\aspnetcoreado\\AspnetCoreADO.BAL\\AspnetCoreADO.BAL.csproj"
             }
           }
         }

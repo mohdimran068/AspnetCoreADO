@@ -5,7 +5,7 @@ namespace AspnetCoreADO.DataAccess.Repository
 {
     public interface IDBOperation
     {
-        List<Employee> GetEmployees();
+        List<Person> GetEmployees();
 
     }        
 }

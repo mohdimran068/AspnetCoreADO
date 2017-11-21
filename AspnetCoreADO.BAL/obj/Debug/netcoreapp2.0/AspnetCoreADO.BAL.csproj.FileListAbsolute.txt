@@ -1,0 +1,17 @@
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.BAL\bin\Debug\netcoreapp2.0\AspnetCoreADO.BAL.deps.json
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.BAL\bin\Debug\netcoreapp2.0\AspnetCoreADO.BAL.dll
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.BAL\bin\Debug\netcoreapp2.0\AspnetCoreADO.BAL.pdb
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.BAL\bin\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.dll
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.BAL\bin\Debug\netcoreapp2.0\AspnetCoreADO.Models.dll
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.BAL\bin\Debug\netcoreapp2.0\AspnetCoreADO.Repository.dll
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.BAL\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Options.dll
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.BAL\bin\Debug\netcoreapp2.0\AspnetCoreADO.Repository.pdb
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.BAL\bin\Debug\netcoreapp2.0\AspnetCoreADO.Models.pdb
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.BAL\bin\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.pdb
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.BAL\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Options.xml
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.BAL\obj\Debug\netcoreapp2.0\AspnetCoreADO.BAL.csprojResolveAssemblyReference.cache
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.BAL\obj\Debug\netcoreapp2.0\AspnetCoreADO.BAL.csproj.CoreCompileInputs.cache
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.BAL\obj\Debug\netcoreapp2.0\AspnetCoreADO.BAL.AssemblyInfoInputs.cache
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.BAL\obj\Debug\netcoreapp2.0\AspnetCoreADO.BAL.AssemblyInfo.cs
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.BAL\obj\Debug\netcoreapp2.0\AspnetCoreADO.BAL.dll
+F:\Develop\GIT Repo\aspnetcoreado\AspnetCoreADO.BAL\obj\Debug\netcoreapp2.0\AspnetCoreADO.BAL.pdb

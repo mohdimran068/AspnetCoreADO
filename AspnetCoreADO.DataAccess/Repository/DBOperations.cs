@@ -24,9 +24,9 @@ namespace AspnetCoreADO.DataAccess.Repository
         /// </summary>
         /// <returns></returns>
 
-        public List<Employee> GetEmployees()
+        public List<Person> GetEmployees()
         {
-            List<Employee> lstEmployees = new List<Employee>();
+            List<Person> lstEmployees = new List<Person>();
             try
             {
                 string ConnectionPath = connectionStrings.DbConnection;
@@ -47,7 +47,7 @@ namespace AspnetCoreADO.DataAccess.Repository
                                 lstEmployees
                                     .Add
                                     (
-                                        new Employee
+                                        new Person
                                         {
                                             EmployeeID = Convert.ToInt32(dr["EmployeeID"].ToString())
                                              ,

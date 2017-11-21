@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AspnetCoreADO.DataAccess\AspnetCoreADO.Repository.csproj" />
+    <ProjectReference Include="..\AspnetCoreADO.Models\AspnetCoreADO.Models.csproj" />
+  </ItemGroup>
+
+</Project>

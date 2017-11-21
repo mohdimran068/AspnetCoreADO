@@ -1,26 +1,39 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
-
-using AspnetCoreADO.DataAccess.Repository;
 using AspnetCoreADO.DataAccess.Model;
+using AspnetCoreADO.BAL;
 
 namespace AspnetCoreADO.Controllers
 {
     [Route("api/employees")]
     public class EmployeeController : Controller
     { 
-        public EmployeeController(IDBOperation dbOps)
+        public EmployeeController(IEmployeeBS dbOps)
         {
-            DBRecords = dbOps;
+            balDIOBJ = dbOps;
         }
-        public IDBOperation DBRecords { get; set; }
+
+        public IEmployeeBS balDIOBJ { get; set; }
+
+        //public EmployeeController(IStudentBS dbOps)
+        //{
+        //    studentDIOBJ = dbOps;
+        //}
+
+        //public IStudentBS studentDIOBJ { get; set; }
 
         [HttpGet]
         [Route("getall")]        
-        public List<Employee> GetEmployees()
+        public List<Person> GetEmployees()
         {
-            return DBRecords.GetEmployees();
+            return balDIOBJ.GetEmployees();
             
         }
+        //[HttpGet]
+        //[Route("allstu")]
+        //public List<Person> GetStudents()
+        //{
+        //    return studentDIOBJ.GetStudents();
+        //}
     }
 }

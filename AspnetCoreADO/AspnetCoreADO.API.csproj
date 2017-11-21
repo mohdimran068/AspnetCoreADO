@@ -24,6 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\AspnetCoreADO.BAL\AspnetCoreADO.BAL.csproj" />
     <ProjectReference Include="..\AspnetCoreADO.DataAccess\AspnetCoreADO.Repository.csproj" />
   </ItemGroup>
 
