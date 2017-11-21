@@ -705,11 +705,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Imran\\samples\\AspnetCoreADO\\AspnetCoreADO.DataAccess\\AspnetCoreADO.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\Bijith\\source\\repos\\AspnetCoreADO\\AspnetCoreADO.DataAccess\\AspnetCoreADO.Repository.csproj",
       "projectName": "AspnetCoreADO.Repository",
-      "projectPath": "D:\\Imran\\samples\\AspnetCoreADO\\AspnetCoreADO.DataAccess\\AspnetCoreADO.Repository.csproj",
+      "projectPath": "C:\\Users\\Bijith\\source\\repos\\AspnetCoreADO\\AspnetCoreADO.DataAccess\\AspnetCoreADO.Repository.csproj",
       "packagesPath": "C:\\Users\\Bijith\\.nuget\\packages\\",
-      "outputPath": "D:\\Imran\\samples\\AspnetCoreADO\\AspnetCoreADO.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\Bijith\\source\\repos\\AspnetCoreADO\\AspnetCoreADO.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -728,11 +728,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\Imran\\samples\\AspnetCoreADO\\AspnetCoreADO.Configuration\\AspnetCoreADO.Configuration.csproj": {
-              "projectPath": "D:\\Imran\\samples\\AspnetCoreADO\\AspnetCoreADO.Configuration\\AspnetCoreADO.Configuration.csproj"
+            "C:\\Users\\Bijith\\source\\repos\\AspnetCoreADO\\AspnetCoreADO.Configuration\\AspnetCoreADO.Configuration.csproj": {
+              "projectPath": "C:\\Users\\Bijith\\source\\repos\\AspnetCoreADO\\AspnetCoreADO.Configuration\\AspnetCoreADO.Configuration.csproj"
             },
-            "D:\\Imran\\samples\\AspnetCoreADO\\AspnetCoreADO.Models\\AspnetCoreADO.Models.csproj": {
-              "projectPath": "D:\\Imran\\samples\\AspnetCoreADO\\AspnetCoreADO.Models\\AspnetCoreADO.Models.csproj"
+            "C:\\Users\\Bijith\\source\\repos\\AspnetCoreADO\\AspnetCoreADO.Models\\AspnetCoreADO.Models.csproj": {
+              "projectPath": "C:\\Users\\Bijith\\source\\repos\\AspnetCoreADO\\AspnetCoreADO.Models\\AspnetCoreADO.Models.csproj"
             }
           }
         }

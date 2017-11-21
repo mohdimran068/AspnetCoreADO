@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using AspnetCoreADO.DataAccess.Repository;
+using AspnetCoreADO.Configuration;
 
 namespace AspnetCoreADO.Controllers
 {
@@ -39,6 +41,24 @@ namespace AspnetCoreADO.Controllers
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
+        }
+    }
+
+    [Route("api/[controller]")]
+    public class AppInfoController : Controller
+    {
+        public AppInfoController(IAppInfoRepo dbOps)
+        {
+            DBRecords = dbOps;
+        }
+        public IAppInfoRepo DBRecords { get; set; }
+
+        [HttpGet]
+        [Route("get")]
+        public AppInfo GetInfo()
+        {
+            return DBRecords.GetInfo();
+
         }
     }
 }

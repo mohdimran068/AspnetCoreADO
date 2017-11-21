@@ -6,3 +6,12 @@ D:\Imran\samples\AspnetCoreADO\AspnetCoreADO.Models\obj\Debug\netcoreapp2.0\Aspn
 D:\Imran\samples\AspnetCoreADO\AspnetCoreADO.Models\obj\Debug\netcoreapp2.0\AspnetCoreADO.Models.AssemblyInfo.cs
 D:\Imran\samples\AspnetCoreADO\AspnetCoreADO.Models\obj\Debug\netcoreapp2.0\AspnetCoreADO.Models.dll
 D:\Imran\samples\AspnetCoreADO\AspnetCoreADO.Models\obj\Debug\netcoreapp2.0\AspnetCoreADO.Models.pdb
+C:\Users\Bijith\source\repos\AspnetCoreADO\AspnetCoreADO.Models\bin\Debug\netcoreapp2.0\AspnetCoreADO.Models.deps.json
+C:\Users\Bijith\source\repos\AspnetCoreADO\AspnetCoreADO.Models\bin\Debug\netcoreapp2.0\AspnetCoreADO.Models.dll
+C:\Users\Bijith\source\repos\AspnetCoreADO\AspnetCoreADO.Models\bin\Debug\netcoreapp2.0\AspnetCoreADO.Models.pdb
+C:\Users\Bijith\source\repos\AspnetCoreADO\AspnetCoreADO.Models\obj\Debug\netcoreapp2.0\AspnetCoreADO.Models.csprojResolveAssemblyReference.cache
+C:\Users\Bijith\source\repos\AspnetCoreADO\AspnetCoreADO.Models\obj\Debug\netcoreapp2.0\AspnetCoreADO.Models.csproj.CoreCompileInputs.cache
+C:\Users\Bijith\source\repos\AspnetCoreADO\AspnetCoreADO.Models\obj\Debug\netcoreapp2.0\AspnetCoreADO.Models.AssemblyInfoInputs.cache
+C:\Users\Bijith\source\repos\AspnetCoreADO\AspnetCoreADO.Models\obj\Debug\netcoreapp2.0\AspnetCoreADO.Models.AssemblyInfo.cs
+C:\Users\Bijith\source\repos\AspnetCoreADO\AspnetCoreADO.Models\obj\Debug\netcoreapp2.0\AspnetCoreADO.Models.dll
+C:\Users\Bijith\source\repos\AspnetCoreADO\AspnetCoreADO.Models\obj\Debug\netcoreapp2.0\AspnetCoreADO.Models.pdb

@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Imran\\samples\\AspnetCoreADO\\AspnetCoreADO.Models\\AspnetCoreADO.Models.csproj",
+      "projectUniqueName": "C:\\Users\\Bijith\\source\\repos\\AspnetCoreADO\\AspnetCoreADO.Models\\AspnetCoreADO.Models.csproj",
       "projectName": "AspnetCoreADO.Models",
-      "projectPath": "D:\\Imran\\samples\\AspnetCoreADO\\AspnetCoreADO.Models\\AspnetCoreADO.Models.csproj",
+      "projectPath": "C:\\Users\\Bijith\\source\\repos\\AspnetCoreADO\\AspnetCoreADO.Models\\AspnetCoreADO.Models.csproj",
       "packagesPath": "C:\\Users\\Bijith\\.nuget\\packages\\",
-      "outputPath": "D:\\Imran\\samples\\AspnetCoreADO\\AspnetCoreADO.Models\\obj\\",
+      "outputPath": "C:\\Users\\Bijith\\source\\repos\\AspnetCoreADO\\AspnetCoreADO.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

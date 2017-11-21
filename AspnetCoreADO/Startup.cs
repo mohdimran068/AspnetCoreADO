@@ -36,6 +36,10 @@ namespace AspnetCoreADO
 
             services.AddSingleton<IDBOperation, DBOperations>();
 
+            services.Configure<AppInfo>(Configuration.GetSection("AppInfo"));
+
+            services.AddSingleton<IAppInfoRepo, AppInfoRepo>();
+
             //Add the CORS services 
             services.AddCors();
         }

@@ -6,3 +6,13 @@ D:\Imran\samples\AspnetCoreADO\AspnetCoreADO.Configuration\obj\Debug\netcoreapp2
 D:\Imran\samples\AspnetCoreADO\AspnetCoreADO.Configuration\obj\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.AssemblyInfo.cs
 D:\Imran\samples\AspnetCoreADO\AspnetCoreADO.Configuration\obj\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.dll
 D:\Imran\samples\AspnetCoreADO\AspnetCoreADO.Configuration\obj\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.pdb
+D:\Imran\samples\AspnetCoreADO\AspnetCoreADO.Configuration\obj\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.csprojResolveAssemblyReference.cache
+C:\Users\Bijith\source\repos\AspnetCoreADO\AspnetCoreADO.Configuration\bin\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.deps.json
+C:\Users\Bijith\source\repos\AspnetCoreADO\AspnetCoreADO.Configuration\bin\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.dll
+C:\Users\Bijith\source\repos\AspnetCoreADO\AspnetCoreADO.Configuration\bin\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.pdb
+C:\Users\Bijith\source\repos\AspnetCoreADO\AspnetCoreADO.Configuration\obj\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.csprojResolveAssemblyReference.cache
+C:\Users\Bijith\source\repos\AspnetCoreADO\AspnetCoreADO.Configuration\obj\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\Bijith\source\repos\AspnetCoreADO\AspnetCoreADO.Configuration\obj\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.AssemblyInfoInputs.cache
+C:\Users\Bijith\source\repos\AspnetCoreADO\AspnetCoreADO.Configuration\obj\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.AssemblyInfo.cs
+C:\Users\Bijith\source\repos\AspnetCoreADO\AspnetCoreADO.Configuration\obj\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.dll
+C:\Users\Bijith\source\repos\AspnetCoreADO\AspnetCoreADO.Configuration\obj\Debug\netcoreapp2.0\AspnetCoreADO.Configuration.pdb

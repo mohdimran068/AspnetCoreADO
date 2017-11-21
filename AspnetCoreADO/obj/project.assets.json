@@ -12592,11 +12592,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Imran\\samples\\AspnetCoreADO\\AspnetCoreADO\\AspnetCoreADO.API.csproj",
+      "projectUniqueName": "C:\\Users\\Bijith\\source\\repos\\AspnetCoreADO\\AspnetCoreADO\\AspnetCoreADO.API.csproj",
       "projectName": "AspnetCoreADO.API",
-      "projectPath": "D:\\Imran\\samples\\AspnetCoreADO\\AspnetCoreADO\\AspnetCoreADO.API.csproj",
+      "projectPath": "C:\\Users\\Bijith\\source\\repos\\AspnetCoreADO\\AspnetCoreADO\\AspnetCoreADO.API.csproj",
       "packagesPath": "C:\\Users\\Bijith\\.nuget\\packages\\",
-      "outputPath": "D:\\Imran\\samples\\AspnetCoreADO\\AspnetCoreADO\\obj\\",
+      "outputPath": "C:\\Users\\Bijith\\source\\repos\\AspnetCoreADO\\AspnetCoreADO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12615,8 +12615,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\Imran\\samples\\AspnetCoreADO\\AspnetCoreADO.DataAccess\\AspnetCoreADO.Repository.csproj": {
-              "projectPath": "D:\\Imran\\samples\\AspnetCoreADO\\AspnetCoreADO.DataAccess\\AspnetCoreADO.Repository.csproj"
+            "C:\\Users\\Bijith\\source\\repos\\AspnetCoreADO\\AspnetCoreADO.DataAccess\\AspnetCoreADO.Repository.csproj": {
+              "projectPath": "C:\\Users\\Bijith\\source\\repos\\AspnetCoreADO\\AspnetCoreADO.DataAccess\\AspnetCoreADO.Repository.csproj"
             }
           }
         }
